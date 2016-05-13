@@ -24,3 +24,4 @@ executable keytest
                      , bytestring
                      , text-format
                      , text
+                     , time
